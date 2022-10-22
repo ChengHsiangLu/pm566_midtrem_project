@@ -67,7 +67,7 @@ library(stringr)
 setwd("/Users/samuellu/Desktop/PM566/GitHub/pm566-fall2022-labs_Sam/mid_term/")
 ```
 
-# Introduction (provide background on your dataset and formulated question)
+# Introduction
 
 These two datasets are about “diagnosed diabetes among adults aged \>=18
 years” and “Obesity among adults aged \>=18 years” in 2017 from the CDC.
@@ -79,7 +79,7 @@ know whether there is a correlation between diabetes and obesity. Last,
 I want to compare different regions diabetes_percentage and
 obesity_percentage with histograms and boxplots.
 
-# Methods (include how and where the data were acquired, how you cleaned and wrangled the data, what tools you used for data exploration)
+# Methods
 
 ## Read in the data by API
 
